@@ -1,4 +1,4 @@
-rootProject.name = "otuskotlin-marketplace-202402"
+rootProject.name = "ok-marketplace-202402"
 
 pluginManagement {
     plugins {
@@ -12,5 +12,5 @@ plugins {
 }
 
 includeBuild("lessons")
-includeBuild("ok-chat-be")
+includeBuild("ok-social-be")
 includeBuild("build-plugin")
